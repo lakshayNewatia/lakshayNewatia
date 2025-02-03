@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm **Lakshay Newatia**, an **Aspiring Data Analyst** with a strong foundation in **Artificial Intelligence & Data Science**. Passionate about uncovering insights from data to drive business decisions!  
+I'm, an **Aspiring Data Analyst** with a strong foundation in **Artificial Intelligence & Data Science**. Passionate about uncovering insights from data to drive business decisions!  
 
 - 🔭 I’m currently working on **enhancing my data analytics skills through real-world projects**.  
 - 🌱 I’m currently learning **advanced SQL queries, Power BI, and AI-driven analytics**.  
