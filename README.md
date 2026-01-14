@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshay Newatia</h1>
-<h3 align="center">A passionaFull-stack developer specializing in MERN applications and scalable backend systems, with a strong foundation in AI & Data Science.</h3>
+<h3 align="center">A passionate Full-stack developer specializing in MERN applications and scalable backend systems, with a strong foundation in AI & Data Science.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
